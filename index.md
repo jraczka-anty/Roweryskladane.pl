@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: home
 title: ANTY
 header:
   overlay_image: /assets/hero.JPG
