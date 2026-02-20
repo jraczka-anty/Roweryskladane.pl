@@ -49,3 +49,6 @@ defaults:
 
 # Blog (posts)
 permalink: /journal/:categories/:title/
+
+custom_css:
+  - /assets/css/custom.css
