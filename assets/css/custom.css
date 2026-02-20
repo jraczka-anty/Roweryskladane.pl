@@ -1,5 +1,5 @@
 .page__hero--overlay {
-  min-height: 75vh;
+  min-height: 66vh !important;
   display: flex;
   align-items: center;
 }
