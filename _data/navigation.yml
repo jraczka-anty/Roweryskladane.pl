@@ -1,0 +1,7 @@
+main:
+  - title: "Work"
+    url: /projekty/
+  - title: "Journal"
+    url: /journal/
+  - title: "About"
+    url: /about/

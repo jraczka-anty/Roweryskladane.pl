@@ -1,0 +1,49 @@
+title: ANTY
+description: gravel / motion / performance / design
+name: ANTY
+locale: pl-PL
+timezone: Europe/Warsaw
+
+atom_feed:
+  hide: true
+
+footer:
+  links: []
+
+lang: pl
+url: https://jiraczka-anty.github.io
+baseurl: /ANTY_TEST_A
+
+remote_theme: mmistakes/minimal-mistakes
+
+plugins:
+  - jekyll-include-cache
+
+minimal_mistakes_skin: dark
+
+logo: /assets/logo.png
+
+search: false
+breadcrumbs: false
+
+collections:
+  projects:
+    output: true
+    permalink: /projekty/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: false
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+
+      # Blog (posts)
+permalink: /journal/:categories/:title/
+
