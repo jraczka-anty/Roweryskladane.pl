@@ -11,6 +11,8 @@ header:
     - label: "Journal"
       url: "/journal/"
 
+---
+
 "Pasjonujemy się rowerami, te a składane to coraz popularniejsze połączenie przyjemności z jazdy, miejskiej mobilności i wyjątkowego stylu. Piszemy, jeździmy i opowiadamy o mikrokosmosie rowerów składanych."
 
 ---
