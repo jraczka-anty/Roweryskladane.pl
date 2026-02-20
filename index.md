@@ -1,6 +1,6 @@
 ---
 layout: home
-title: ANTY
+title: Roweryskladane.pl
 header:
   overlay_image: /assets/hero.JPG
   overlay_filter: 0.25
@@ -12,9 +12,7 @@ header:
       url: "/journal/"
 ---
 
-ANTY to więcej niż rowery.  
-To ruch, pasja, społeczność i dobra energia — budowana w praktyce, na trasie i między projektami.
-
+"Pasjonujemy się rowerami, te a składane to coraz popularniejsze połączenie przyjemności z jazdy, miejskiej mobilności i wyjątkowego stylu. Piszemy, jeździmy i opowiadamy o mikrokosmosie rowerów składanych."
 ---
 
 {% assign latest_post = site.posts.first %}
