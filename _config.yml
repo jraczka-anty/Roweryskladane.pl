@@ -1,5 +1,5 @@
 title: Roweryskladane.pl
-description: description: Pasjonujemy się rowerami, a składane to coraz popularniejsze połączenie przyjemności z jazdy, miejskiej mobilności i wyjątkowego stylu. Piszemy, jeździmy i opowiadamy o mikrokosmosie rowerów składanych.
+description: "Pasjonujemy się rowerami, a składane to coraz popularniejsze połączenie przyjemności z jazdy, miejskiej mobilności i wyjątkowego stylu. Piszemy, jeździmy i opowiadamy o mikrokosmosie rowerów składanych."
 name: Roweryskladane.pl
 locale: pl-PL
 timezone: Europe/Warsaw
@@ -22,7 +22,7 @@ remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-include-cache
 
-minimal_mistakes_skin: paper
+minimal_mistakes_skin: air
 
 logo: /assets/logo.png
 
