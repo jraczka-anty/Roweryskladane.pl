@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Roweryskladane.pl
-excerpt: ""Składaki" to coraz popularniejsze połączenie przyjemności z jazdy, miejskiej mobilności i wyjątkowego stylu. Piszemy, jeździmy i opowiadamy o mikrokosmosie rowerów składanych."
+excerpt: "\"Składaki\" to coraz popularniejsze połączenie przyjemności z jazdy, miejskiej mobilności i wyjątkowego stylu."
 classes: wide
 entries_layout: grid
 header:
@@ -14,7 +14,6 @@ header:
     - label: "Artykuły"
       url: "/journal/"
 ---
-
 {% assign latest_post = site.posts.first %}
 
 {% assign sorted_projects = site.projects | sort: "date" %}
