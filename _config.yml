@@ -1,6 +1,6 @@
-title: ANTY
-description: gravel / motion / performance / design
-name: ANTY
+title: Roweryskladane.pl
+description: description: Pasjonujemy się rowerami, a składane to coraz popularniejsze połączenie przyjemności z jazdy, miejskiej mobilności i wyjątkowego stylu. Piszemy, jeździmy i opowiadamy o mikrokosmosie rowerów składanych.
+name: Roweryskladane.pl
 locale: pl-PL
 timezone: Europe/Warsaw
 
@@ -11,15 +11,18 @@ footer:
   links: []
 
 lang: pl
-url: https://jiraczka-anty.github.io
-baseurl: /ANTY_TEST_A
+
+# Ważne dla GitHub Pages:
+# Na github.io URL jest stały, a baseurl musi być nazwą repo.
+url: https://jraczka-anty.github.io
+baseurl: /Roweryskladane.pl
 
 remote_theme: mmistakes/minimal-mistakes
 
 plugins:
   - jekyll-include-cache
 
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: air
 
 logo: /assets/logo.png
 
@@ -44,6 +47,5 @@ defaults:
     values:
       layout: single
 
-      # Blog (posts)
+# Blog (posts)
 permalink: /journal/:categories/:title/
-
