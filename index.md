@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Roweryskladane.pl
+description: Pasjonujemy się rowerami, a "składaki" to coraz popularniejsze połączenie przyjemności z jazdy, miejskiej mobilności i wyjątkowego stylu. Piszemy, jeździmy i opowiadamy o mikrokosmosie rowerów składanych.
 header:
   overlay_image: /assets/hero.JPG
   overlay_filter: 0.25
@@ -10,10 +11,6 @@ header:
       url: "/projekty/"
     - label: "Journal"
       url: "/journal/"
-
----
-
-"Pasjonujemy się rowerami, te a składane to coraz popularniejsze połączenie przyjemności z jazdy, miejskiej mobilności i wyjątkowego stylu. Piszemy, jeździmy i opowiadamy o mikrokosmosie rowerów składanych."
 
 ---
 
